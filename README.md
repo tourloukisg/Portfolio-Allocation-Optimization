@@ -1,2 +1,2 @@
 # Portfolio-Allocation-Optimization
-Portfolio Allocation_ a)MonteCarlo_b) Optimization Fun.
+Portfolio Allocation using a)MonteCarlo_b) Optimization Function
